@@ -100,6 +100,8 @@ and encourage developers to use them for their own applications. This hackathon 
 - [EFCore.SqlServer.VectorSearch](https://github.com/efcore/EFCore.SqlServer.VectorSearch)
 - [generative-ai](https://github.com/mscraftsman/generative-ai) Access and integrate the Gemini API into your .NET applications. The packages support both Google AI Studio and Google Cloud Vertex AI
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 payment verification MCP server for AI agents operating on Solana. Provides `resolve_agent`, `preflight_check`, and `get_trust_receipt` tools via streamable-http with zero-install config.
+
 ## Planners
 sequences of actions that Semantic Kernel can execute to achieve a goal, such as booking a flight or writing some content.
 - [Introduction to Semantic Kernel Planners for Seamless Orchestration](https://medium.com/@akshaykokane09/empowering-ai-with-semantic-kernel-planners-for-seamless-orchestration-1c7ad35f2337)
